@@ -6,4 +6,4 @@ Repository Contents
 
 This repository contains Python scripts that use Qiskit to demonstrate key quantum computing concepts. Each script is designed to generate visualizations (e.g., Bloch spheres, circuit diagrams) that are easy to understand and share.
 
-You can also find posts on Instragram @Quantum_Layman
+
